@@ -1,1 +1,11 @@
-Update this file to add the content
+version: '3'
+services:
+  personal-api:
+    image: "boopanapriya/22it005-personal-api"
+    ports:
+      - "5000:5000"
+
+  friends-api:
+    image: "santhiya55/22it044-personal-api"
+    ports:
+      - "90:5000"
