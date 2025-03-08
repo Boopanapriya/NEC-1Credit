@@ -1,47 +1,83 @@
-STEP 1: Docker Build
+1)Commit the code in the respective files    
 
-![Screenshot 2025-03-03 201859](https://github.com/user-attachments/assets/9c3c7358-683b-4ffc-ae52-f9a5b1688dd5)
+![Screenshot 2025-03-04 141757](https://github.com/user-attachments/assets/f396aca8-f4fc-4ebb-94ff-370a0eac3a59)
+![Screenshot 2025-03-04 141855](https://github.com/user-attachments/assets/93f7677d-6d7c-4205-ba6b-f9706ee848a9)
 
-![Screenshot 2025-03-03 202150](https://github.com/user-attachments/assets/c5921645-fbf3-471c-9597-d60341fae04f)
 
-STEP 2: Docker Login
+2)personal-api.py    
 
-![Screenshot 2025-03-03 201907](https://github.com/user-attachments/assets/d5878a37-8742-47c1-861b-322fe4ee71c6)
+![Screenshot 2025-03-04 145428](https://github.com/user-attachments/assets/757e7d60-8bcf-48ff-8a52-442ca152e817)
 
-Docker Image
 
-![Screenshot 2025-03-03 201916](https://github.com/user-attachments/assets/8818e100-8b15-489f-ae86-88660ad4e95d)
+3)Dockerfile   
 
-STEP 3 : Docker Tag
+![Screenshot 2025-03-04 145436](https://github.com/user-attachments/assets/c7e15cc9-2916-4712-98a4-a0eab22bd7aa)
 
-![Screenshot 2025-03-03 201925](https://github.com/user-attachments/assets/29abfeb1-6846-4f19-827e-46e1421941bd)
 
-![Screenshot 2025-03-03 201932](https://github.com/user-attachments/assets/b4005c92-9ce2-49b6-9687-4dfc8b0fc83f)
+4)ml-model.py   
 
-STEP 4 : Docker push
+![Screenshot 2025-03-04 145456](https://github.com/user-attachments/assets/b438af24-6dd4-4199-a729-61eed13c8141)
 
-![Screenshot 2025-03-03 202126](https://github.com/user-attachments/assets/1c4f83ee-0d6f-42da-abda-a14bba7c6093)
 
-![Screenshot 2025-03-03 202217](https://github.com/user-attachments/assets/86e004d0-862f-4cb0-b1d4-22e718393dfe)
+5)compose.yml   
 
-STEP 5 : Docker Compose
+![Screenshot 2025-03-04 145511](https://github.com/user-attachments/assets/c6f27cf6-f7ad-46a2-b0fe-c3f758285207)
 
-![Screenshot 2025-03-03 202253](https://github.com/user-attachments/assets/02061131-0332-4844-8574-81345e0e884b)
 
-STEP 6: DOCKER HUB REPOSITORY
+6)Docker Build   
 
-![Screenshot 2025-03-03 194901](https://github.com/user-attachments/assets/7d4e768f-ed4e-418f-aaab-d1c43dd5d20c)
+![Screenshot 2025-03-04 134408](https://github.com/user-attachments/assets/6328ac73-0a45-4b07-871d-3dd703ff2474)
 
-STEP 7 : OUTPUT SCREENSHOTS
+![Screenshot 2025-03-04 135858](https://github.com/user-attachments/assets/6663f077-8147-4891-b9d1-8ba194537fcd)
 
-![Screenshot 2025-03-03 201524](https://github.com/user-attachments/assets/c776fab9-52a0-4b18-91f0-0b17b91a1825)
 
-![Screenshot 2025-03-03 201549](https://github.com/user-attachments/assets/615518f0-d518-428c-b831-342c969d9c69)
+7)Docker Login    
 
-![Screenshot 2025-03-03 201702](https://github.com/user-attachments/assets/82994483-5af8-4f0f-acaa-64c61895ffca)
+![Screenshot 2025-03-04 142812](https://github.com/user-attachments/assets/2b26e995-35ca-45d2-bcab-e55b4a6a9fa7)
 
-![Screenshot 2025-03-03 201200](https://github.com/user-attachments/assets/6c191a37-d8e9-4ad8-ae13-3aeb8e002a5f)
 
-![Screenshot 2025-03-03 201737](https://github.com/user-attachments/assets/54dccef6-6b7a-4846-ab8d-dc993fc713c1)
+8)Docker Image    
 
-![Screenshot 2025-03-03 201255](https://github.com/user-attachments/assets/d3b534d3-a18a-4012-99d6-630fdb700ea3)
+![Screenshot 2025-03-04 143036](https://github.com/user-attachments/assets/a5135708-4cb0-47d2-a8e8-4099802929f0)
+
+
+9)Docker Tag    
+
+![Screenshot 2025-03-04 143156](https://github.com/user-attachments/assets/e52d456b-0755-4e6f-b4c9-8c8d228c05d5)
+
+
+10)Docker push     
+
+![Screenshot 2025-03-04 143426](https://github.com/user-attachments/assets/1c83d00f-fb10-48cf-8cd1-de750fc8e07d)
+
+
+11)Docker Compose     
+
+![Screenshot 2025-03-04 144823](https://github.com/user-attachments/assets/6a21d132-363f-43b8-97f1-88814a77d2d6)
+
+
+12)Docker hub repositories       
+
+![Screenshot 2025-03-04 144127](https://github.com/user-attachments/assets/5a9184f0-a645-4196-abc1-829fa1dfc2db)
+![Screenshot 2025-03-04 140107](https://github.com/user-attachments/assets/a5bb224d-8421-4b77-8a0e-b180123d29de)
+
+
+13)Output screenshots    
+
+![Screenshot 2025-03-04 142036](https://github.com/user-attachments/assets/b03a6f4d-2237-4db9-a16f-821246ce052d)
+
+![Screenshot 2025-03-04 142106](https://github.com/user-attachments/assets/6ab09463-c607-4901-a8cb-7f9219514bdc)
+
+![Screenshot 2025-03-04 142124](https://github.com/user-attachments/assets/ae3ed7be-528c-400c-a5df-2033798920b7)
+
+![Screenshot 2025-03-04 142215](https://github.com/user-attachments/assets/0e440c3a-7990-4ea2-a0ef-93c085addb18)
+
+![Screenshot 2025-03-04 142200](https://github.com/user-attachments/assets/7e0d2908-a629-40b1-be38-f058cbaa9846)
+
+![Screenshot 2025-03-04 142237](https://github.com/user-attachments/assets/022513bc-12f0-448b-820a-8ce3c95d93d6)
+
+
+
+
+
+
